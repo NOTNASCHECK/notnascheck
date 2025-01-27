@@ -17,8 +17,7 @@ I'm always eager to learn and grow. Currently, I'm exploring:
 - Advanced cloud computing solutions
 - Machine learning and data science techniques
 - Enhancing my DevOps skills
-
-- 
+- Have also experience in C#, C++
 ## 🤝 Let's Collaborate!
 
 I'm open to collaborating on exciting projects and contributing to open-source communities. If you have an interesting project or idea, let's discuss how we can work together!
