@@ -14,6 +14,8 @@ Hello! I'm a passionate Software Developer with a diverse skill set and a love f
 
 I'm always eager to learn and grow. Currently, I'm exploring:
 
+- Android Development
+- AAOS and Car Software Architecture
 - Advanced cloud computing solutions
 - Machine learning and data science techniques
 - Enhancing my DevOps skills
