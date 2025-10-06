@@ -1,6 +1,5 @@
 # 👋 Welcome to My GitHub!  
-## Anton Scheck – Full-Stack Software Developer | Tech Bridge Builder | Automotive Software Innovator
-
+## Anton Scheck – Full-Stack Software Developer | Tech Bridge Builder | Automotive
 ---
 
 ### 🚀 About Me
