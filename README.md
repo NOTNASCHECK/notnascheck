@@ -44,7 +44,6 @@ My superpower: Bridging advanced software architecture, real-world automotive in
 
 #### **PartnerBridge 2.0 (.NET8, OpenShift)**
 - Migration and development of scalable webservices for VW, incl. Docker & Helmchart orchestration  
-- Achieved 40% onboarding-time reduction and 99.9% uptime
 
 #### **SaaS-App (Spring Boot, React, Android/Kotlin)**
 - Multi-tenant SaaS & cloud-based business solution, released to Play Store  
